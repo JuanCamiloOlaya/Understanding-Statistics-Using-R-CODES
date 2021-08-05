@@ -1,4 +1,6 @@
 # Understanding Statistics Using R
+I share with you all codes used in this incredible book.
+
 ![cover](./Images/cover.jpg)
 
 Provides strong fundamental background in statistics and probability through simulation exercises:
