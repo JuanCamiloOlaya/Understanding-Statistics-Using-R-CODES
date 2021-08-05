@@ -7,5 +7,6 @@ Provides strong fundamental background in statistics and probability through sim
 * Publisher: SpringerLink.
 
 ## Note
+I'm not the author of these programming codes. I took all these files from the official web page of [SpringerLink](https://www.springer.com/gp/book/9781461462262). On that website, you can find the following options:
 
-The source is [here](http://www.springer.com/cda/content/document/cda_downloaddocument/Schumacker_for_internet.zip?SGWID=0-0-45-1380502-p174721646)
+![source](./Images/source.JPG)
